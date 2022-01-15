@@ -3,7 +3,7 @@
 
 How to run the app:
   - after clone the code, you need to run from terminal: expo install
-  - To run the project you need to use this command: expo run 
+  - To run the project you need to use this command: expo start 
   - after compiling you need an real device (camera will doesn't work on emulator) with Expo Go: android - https://play.google.com/store/apps/details?id=host.exp.exponent&hl=ro&gl=US | iPhone - https://apps.apple.com/us/app/expo-go/id982107779
   - after installing Expo Go and the code is running you just need to scan with your phone the QR code which is generated when you run the project.
 
